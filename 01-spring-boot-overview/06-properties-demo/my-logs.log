@@ -1,0 +1,26 @@
+2023-08-03T16:23:35.337+01:00  INFO 38612 --- [restartedMain] c.l.s.d.mycoolapp.MycoolappApplication   : Starting MycoolappApplication using Java 17.0.5 with PID 38612 (/Users/artur/workspace/_training/Springboot hibernate tutorial/01-spring-boot-overview/06-properties-demo/target/classes started by artur in /Users/artur/workspace/_training/Springboot hibernate tutorial/01-spring-boot-overview/06-properties-demo)
+2023-08-03T16:23:35.338+01:00  INFO 38612 --- [restartedMain] c.l.s.d.mycoolapp.MycoolappApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-08-03T16:23:35.495+01:00  INFO 38612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8585 (http)
+2023-08-03T16:23:35.496+01:00  INFO 38612 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-03T16:23:35.497+01:00  INFO 38612 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-03T16:23:35.508+01:00  INFO 38612 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-03T16:23:35.508+01:00  INFO 38612 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 168 ms
+2023-08-03T16:23:35.569+01:00  INFO 38612 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-08-03T16:23:35.576+01:00  INFO 38612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8585 (http) with context path ''
+2023-08-03T16:23:35.581+01:00  INFO 38612 --- [restartedMain] c.l.s.d.mycoolapp.MycoolappApplication   : Started MycoolappApplication in 0.293 seconds (process running for 384.598)
+2023-08-03T16:23:35.582+01:00  INFO 38612 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-08-03T16:23:51.068+01:00  INFO 38612 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-03T16:23:51.071+01:00  INFO 38612 --- [Thread-19] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-08-03T16:23:51.144+01:00  INFO 38612 --- [restartedMain] c.l.s.d.mycoolapp.MycoolappApplication   : Starting MycoolappApplication using Java 17.0.5 with PID 38612 (/Users/artur/workspace/_training/Springboot hibernate tutorial/01-spring-boot-overview/06-properties-demo/target/classes started by artur in /Users/artur/workspace/_training/Springboot hibernate tutorial/01-spring-boot-overview/06-properties-demo)
+2023-08-03T16:23:51.145+01:00  INFO 38612 --- [restartedMain] c.l.s.d.mycoolapp.MycoolappApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-08-03T16:23:51.263+01:00  INFO 38612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8585 (http)
+2023-08-03T16:23:51.264+01:00  INFO 38612 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-03T16:23:51.264+01:00  INFO 38612 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-03T16:23:51.284+01:00  INFO 38612 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-03T16:23:51.285+01:00  INFO 38612 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 139 ms
+2023-08-03T16:23:51.333+01:00  INFO 38612 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-08-03T16:23:51.340+01:00  INFO 38612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8585 (http) with context path ''
+2023-08-03T16:23:51.344+01:00  INFO 38612 --- [restartedMain] c.l.s.d.mycoolapp.MycoolappApplication   : Started MycoolappApplication in 0.226 seconds (process running for 400.361)
+2023-08-03T16:23:51.345+01:00  INFO 38612 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-08-03T16:24:01.811+01:00  INFO 38612 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-08-03T16:24:01.814+01:00  INFO 38612 --- [Thread-23] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
