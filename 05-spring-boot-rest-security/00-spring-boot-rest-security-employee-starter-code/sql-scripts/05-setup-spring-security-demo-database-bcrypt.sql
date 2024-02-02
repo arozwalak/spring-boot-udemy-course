@@ -21,14 +21,14 @@ CREATE TABLE `users` (
 --
 -- A generation tool is avail at: https://www.luv2code.com/generate-bcrypt-password
 --
--- Default passwords here are: fun123
+-- Default passwords here are: test123
 --
 
 INSERT INTO `users` 
 VALUES 
-('john','{bcrypt}$2a$10$qeS0HEh7urweMojsnwNAR.vcXJeXR1UcMRZ2WcGQl9YeuspUdgF.q',1),
-('mary','{bcrypt}$2a$10$qeS0HEh7urweMojsnwNAR.vcXJeXR1UcMRZ2WcGQl9YeuspUdgF.q',1),
-('susan','{bcrypt}$2a$10$qeS0HEh7urweMojsnwNAR.vcXJeXR1UcMRZ2WcGQl9YeuspUdgF.q',1);
+('john','{bcrypt}$2a$10$XGft3TTmFSXjcjNEjHVaXe8bjFmKLTKCNLarWti/SUJBXlL5a1HWy',1),
+('mary','{bcrypt}$2a$10$rTdcGESltIJ519/Mo7ZAcOeoFEpLRqyjOpFXhoFAYDsbvQX8Hia.y',1),
+('susan','{bcrypt}$2a$10$ZFUzh/2sW5pHfvVO7o6gCumGcHj4qi2dDWuVbNLmWzP99vf4OLWiC',1);
 
 
 --
